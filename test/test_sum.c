@@ -3,7 +3,7 @@
 
 CTEST(quad_suite, test_quad_equation) 
 {
-	const double a = -1, b = -2, c = -6;
+	const double a = 1, b = 2, c = 6;
 
         double x1, x2;
 
